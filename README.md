@@ -2,7 +2,9 @@
 
 > A full-featured platform to manage mentorship programs — pair mentors with mentees, schedule sessions, track goals, and measure outcomes.
 
-![MentorLink Dashboard](./screenshots/dashboard.png)
+
+<img width="1918" height="1022" alt="Screenshot 2026-05-11 142657" src="https://github.com/user-attachments/assets/b1e9dccc-984e-4396-8d81-121ad8b6bab5" />
+
 
 ---
 
@@ -101,6 +103,19 @@ Developed as part of **SVKM's SBMP (Student Business Mentoring Program)**, Mento
 | Sessions | Chronological session list with status badges |
 | Goals & Progress | Goal tracker with priority labels and completion status |
 | Matching System | Auto-matched and manually created mentor-mentee pairs |
+
+<img width="1918" height="1022" alt="Screenshot 2026-05-11 142657" src="https://github.com/user-attachments/assets/f762ab43-259d-4494-815e-32cad918f73a" />
+<img width="1918" height="1017" alt="Screenshot 2026-05-11 142722" src="https://github.com/user-attachments/assets/d3cedf00-6074-411c-a7a5-2b64d29ca678" />
+<img width="1918" height="1017" alt="Screenshot 2026-05-11 142811" src="https://github.com/user-attachments/assets/fd17e58f-f178-4cfd-b411-fc5aa1ef9789" />
+<img width="1918" height="1020" alt="Screenshot 2026-05-11 142744" src="https://github.com/user-attachments/assets/daaa7f2c-9a39-438f-9cea-4f4cbb764a41" />
+<img width="1918" height="1017" alt="Screenshot 2026-05-11 142828" src="https://github.com/user-attachments/assets/030ae762-5e22-4eac-a6d6-650e2becee79" />
+<img width="1918" height="1017" alt="Screenshot 2026-05-11 142905" src="https://github.com/user-attachments/assets/60e5b61c-87a0-48df-b134-2ffb8c307c27" />
+<img width="1918" height="1021" alt="Screenshot 2026-05-11 142926" src="https://github.com/user-attachments/assets/6e77cb5e-8cff-4c30-9437-92a6fa71f708" />
+<img width="1918" height="1018" alt="Screenshot 2026-05-11 142943" src="https://github.com/user-attachments/assets/cb43867c-fd12-4bfb-bef1-1e700dfbdfb1" />
+<img width="1918" height="1022" alt="Screenshot 2026-05-11 143002" src="https://github.com/user-attachments/assets/a756acd7-30cf-4be4-85e4-4258b5a65b57" />
+<img width="1918" height="1017" alt="Screenshot 2026-05-11 143017" src="https://github.com/user-attachments/assets/fd01e454-e458-4526-a9ba-25ec381dfeb8" />
+<img width="1917" height="1017" alt="Screenshot 2026-05-11 143041" src="https://github.com/user-attachments/assets/f0186922-12a0-499d-aabb-233106f2284a" />
+
 
 ---
 
