@@ -95,17 +95,37 @@ Developed as part of **SVKM's SBMP (Student Business Mentoring Program)**, Mento
 | Screen | Description |
 |--------|-------------|
 | Dashboard | Overview of all key metrics and recent activity |
+
+<img width="1918" height="1022" alt="Screenshot 2026-05-11 142657" src="https://github.com/user-attachments/assets/1e2e9aa7-6d2b-44c0-af4a-c6ed885b0ab9" />
+
 | Mentors | Full mentor roster with profile cards |
+
+<img width="1918" height="1017" alt="Screenshot 2026-05-11 142722" src="https://github.com/user-attachments/assets/f715cae7-7d09-4c61-97dd-e31d736b813d" />
+<img width="1918" height="1017" alt="Screenshot 2026-05-11 142811" src="https://github.com/user-attachments/assets/760ba10d-8a25-4c7a-a899-a9085576fb48" />
+
 | Mentees | Full mentee roster with profile cards |
+
+<img width="1918" height="1020" alt="Screenshot 2026-05-11 142744" src="https://github.com/user-attachments/assets/4ad19d83-c57c-4249-b393-61cc02bcf71f" />
+<img width="1918" height="1017" alt="Screenshot 2026-05-11 142828" src="https://github.com/user-attachments/assets/b4675e9a-a45d-43ae-97d9-3f7317ba5895" />
+
 | Sessions | Chronological session list with status badges |
+
+<img width="1918" height="1017" alt="Screenshot 2026-05-11 142905" src="https://github.com/user-attachments/assets/65573a52-b6de-434c-a128-d23ac62c3fb0" />
+<img width="1918" height="1021" alt="Screenshot 2026-05-11 142926" src="https://github.com/user-attachments/assets/bd53894b-ac79-47a3-b26d-4e59c18eb6ef" />
+
 | Goals & Progress | Goal tracker with priority labels and completion status |
+
+<img width="1918" height="1018" alt="Screenshot 2026-05-11 142943" src="https://github.com/user-attachments/assets/8002bcfd-380d-4eca-bc38-ec99fa862f6b" />
+<img width="1918" height="1022" alt="Screenshot 2026-05-11 143002" src="https://github.com/user-attachments/assets/51688ba5-2747-4853-be82-95d2d4eae734" />
+
 | Matching System | Auto-matched and manually created mentor-mentee pairs |
+
+<img width="1918" height="1017" alt="Screenshot 2026-05-11 143017" src="https://github.com/user-attachments/assets/68e941c5-3135-49dd-b887-9edfa150cd58" />
+<img width="1917" height="1017" alt="Screenshot 2026-05-11 143041" src="https://github.com/user-attachments/assets/50be202c-8ebe-411a-90af-1d145f1349b0" />
 
 ---
 
 ## Tech Stack
-
-> *(Update this section based on your actual implementation)*
 
 | Layer | Technology |
 |-------|------------|
@@ -114,8 +134,6 @@ Developed as part of **SVKM's SBMP (Student Business Mentoring Program)**, Mento
 | Database | SQLite / JSON / LocalStorage *(update as needed)* |
 | Styling | Custom CSS (dark theme) |
 | Export | CSV generation |
-
----
 
 ## Getting Started
 
@@ -217,13 +235,5 @@ Please follow the existing code style and include screenshots for UI changes.
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-## Acknowledgements
-
-- Built for **SVKM's Student Business Mentoring Program (SBMP)**
-- Designed with ❤️ to make mentorship structured, measurable, and impactful
-
----
 
 *v3.0 · MentorLink*
