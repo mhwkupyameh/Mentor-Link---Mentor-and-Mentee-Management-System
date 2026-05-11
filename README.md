@@ -2,9 +2,8 @@
 
 > A full-featured platform to manage mentorship programs — pair mentors with mentees, schedule sessions, track goals, and measure outcomes.
 
-![MentorLink Dashboard](./screenshots/dashboard.png)
+<img width="1918" height="1022" alt="Screenshot 2026-05-11 142657" src="https://github.com/user-attachments/assets/3868981e-e70b-4751-83a4-0e9e6dd41aed" />
 
----
 
 ## Description
 
